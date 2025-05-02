@@ -1,0 +1,11 @@
+streamlit
+langchain-openai
+langchain
+PyPDF2
+pdfminer.six
+PyMuPDF
+pytesseract
+Pillow
+python-dotenv
+openai
+faiss-cpu>
