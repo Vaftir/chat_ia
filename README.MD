@@ -96,11 +96,3 @@ Contribuições são bem-vindas! Siga os passos:
 ## 📄 Licença
 Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
-
-**Recursos adicionais para incluir posteriormente:**
-1. Adicione um screenshot ou GIF animado na seção de demo
-2. Inclua uma seção de "FAQ/Troubleshooting"
-3. Adicione badges de status (build, version, etc)
-4. Inclua informações de deployment (Docker, Cloud, etc)
-5. Adicione exemplos de uso avançado
-
