@@ -1,11 +1,6 @@
-Aqui está um README.md completo e profissional para o seu projeto:
-
-```markdown
 # PDF Conversational Assistant
 
 Uma aplicação Streamlit para conversar com documentos PDF usando LangChain e OpenAI. Extrai texto de PDFs (incluindo escaneados via OCR), cria embeddings e permite questionar o conteúdo via chat inteligente.
-
-![Demo](https://via.placeholder.com/800x600.png?text=ChatPDF+Demo+Placeholder) <!-- Adicione um gif/vídeo posteriormente -->
 
 ## ✨ Funcionalidades
 
