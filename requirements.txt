@@ -9,3 +9,4 @@ Pillow
 python-dotenv
 openai
 faiss-cpu
+streamlit_chat
