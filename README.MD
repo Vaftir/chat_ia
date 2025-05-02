@@ -2,6 +2,8 @@
 
 Uma aplicação Streamlit para conversar com documentos PDF usando LangChain e OpenAI. Extrai texto de PDFs (incluindo escaneados via OCR), cria embeddings e permite questionar o conteúdo via chat inteligente.
 
+[ChatWithPdf](https://vaftirpdfchat.streamlit.app)
+
 ## ✨ Funcionalidades
 
 - **Upload múltiplo de PDFs** (texto e escaneados)
